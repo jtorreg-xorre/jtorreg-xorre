@@ -1,85 +1,56 @@
-- 👋 Hi, I’m @jtorreg-xorre
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Fervent Clean Architecture Enthusiast
 
+I started as a web developer with technologies such as Perl and Php, and then entered a training cycle in JAVA in what was the SunMicroSystem and certifications in UML, Jboss, Linux among others, due to the high standards of the state agency where I worked for more than 12 years.
+Lately, I have been working in international SCRUM teams and mentoring others.
 
-Enviado por Copilot:
-Sure! Here’s a simple HTML portfolio template for a developer. You can customize it with your own information, projects, and style.
+| My favorite tools |![email-icon][] Email me to [israellaguan@gmail.com][] ![linkedin-icon][] Connect in [Linkedin][]
+| :---: | :---:
+| ![badge-react][] ![badge-css] ![badge-nodejs][] ![badge-postgres] | ![banner][]
 
-HTML
+## Some stats for the geeky ones
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Developer Portfolio</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-        }
-        header {
-            background-color: #333;
-            color: #fff;
-            padding: 1rem 0;
-            text-align: center;
-        }
-        .container {
-            width: 80%;
-            margin: auto;
-            overflow: hidden;
-        }
-        .main {
-            padding: 2rem 0;
-        }
-        .project {
-            background: #fff;
-            margin: 1rem 0;
-            padding: 1rem;
-            border-radius: 5px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        footer {
-            background-color: #333;
-            color: #fff;
-            text-align: center;
-            padding: 1rem 0;
-            position: fixed;
-            width: 100%;
-            bottom: 0;
-        }
-    </style>
-</head>
-<body>
-    <header>
-        <h1>John Doe</h1>
-        <p>Full Stack Developer</p>
-    </header>
-    <div class="container">
-        <section class="main">
-            <h2>About Me</h2>
-            <p>Hello! I'm John, a passionate developer with experience in building web applications using modern technologies.</p>
-            <h2>Projects</h2>
-            <div class="project">
-                <h3>Project One</h3>
-                <p>Description of project one. <a href="#">View Project</a></p>
-            </div>
-            <div class="project">
-                <h3>Project Two</h3>
-                <p>Description of project two. <a href="#">View Project</a></p>
-            </div>
-            <!-- Add more projects as needed -->
-        </section>
-    </div>
-    <footer>
-        <p>&copy; 2024 John Doe. All rights reserved.</p>
-    </footer>
-</body>
-</html>
-Código generado por IA. Revisar y usar cuidadosamente. Más información sobre preguntas frecuentes.
-Feel free to modify the content, styles, and structure to better fit your needs. If you have any specific requirements or need further customization, let me know!
+### All repos
+
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Israel-Laguan&skills=JavaScript,CSS,SCSS,TypeScript&show-other-skills=true"
+/>
+
+### Public repos
+
+![stats][]
+Stats by [tipsy/profile-summary-for-github][]
+
+## Some of my open-source contributions
+
+- https://github.com/Israel-Laguan/HTML-LESS-JS-no-webpack-starter
+- https://github.com/Israel-Laguan/HTML-CSS-JS-Webpack-starter
+- https://github.com/Israel-Laguan/express-production-template
+- [https://github.com/thruster-rs/Thruster](https://github.com/thruster-rs/Thruster/issues?q=is%3Aissue+author%3AIsrael-Laguan+is%3Aclosed)
+- https://github.com/hasura/graphql-engine/issues/2800
+- https://github.com/grommet/grommet-designer/issues/12
+- [https://github.com/jalasem/templatestringparser](https://github.com/jalasem/templatestringparser/issues/created_by/Israel-Laguan)
+- https://github.com/bahamon94/covid-global-visualization/issues/1
+- https://github.com/Erick2418/vue-axios-vuex-jwt/issues/1
+- https://github.com/hachi8833/rails6_docker_quicksetup_postgres/issues/1
+- [https://github.com/microverseinc/linters-config](https://github.com/microverseinc/linters-config/issues?q=is%3Aissue+author%3AIsrael-Laguan)
+- [https://github.com/No-Country/c8-48-t-typescript-react](https://github.com/No-Country/c8-48-t-typescript-react/pulls?q=is%3Apr+author%3AIsrael-Laguan+is%3Aclosed)
+- [https://github.com/collinsugwu/Microverse201-Enumerable-Methods](https://github.com/collinsugwu/Microverse201-Enumerable-Methods/issues?q=is%3Aissue+author%3AIsrael-Laguan)
+- [https://github.com/raheebwa/irla-facebook](https://github.com/raheebwa/irla-facebook/issues?q=+is%3Aissue+author%3AIsrael-Laguan)
+- [https://github.com/wickathou/ruby-enumerables](https://github.com/wickathou/ruby-enumerables/issues/created_by/Israel-Laguan)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Israel-Laguan/Israel-Laguan)
+
+[pic]: https://avatars2.githubusercontent.com/u/36519478?s=460&v=4
+[email-icon]: https://img.icons8.com/color/48/000000/message-squared.png
+[israellaguan@gmail.com]: mailto:israellaguan@gmail.com
+[linkedin-icon]: https://img.icons8.com/color/48/000000/linkedin.png
+[Linkedin]: https://www.linkedin.com/in/israellaguan
+[github-icon]: https://img.icons8.com/color/48/000000/github--v1.png
+[GitHub]: https://github.com/Israel-Laguan
+[badge-nodejs]: https://img.shields.io/badge/node.js-V14.x-339933?style=for-the-badge&logo=node.js
+[badge-postgres]: https://img.shields.io/badge/database-postgreSQL-47A248?style=for-the-badge&logo=postgresql
+[badge-react]: https://img.shields.io/badge/React-16+-61DAFB?style=for-the-badge&logo=react
+[badge-css]: https://img.shields.io/badge/style-CSS-1572B6?style=for-the-badge&logo=css3
+[banner]: https://github.com/Israel-Laguan/Israel-Laguan/raw/master/docs/banner.jpg
+[stats]: https://github.com/Israel-Laguan/Israel-Laguan/raw/master/docs/github_stats.png
+[tipsy/profile-summary-for-github]: https://profile-summary-for-github.com/user/israel-laguan
