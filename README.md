@@ -3,9 +3,11 @@
 I started as a web developer with technologies such as Perl and Php, and then entered a training cycle in JAVA in what was the SunMicroSystem and certifications in UML, Jboss, Linux among others, due to the high standards of the state agency where I worked for more than 12 years.
 Lately, I have been working in international SCRUM teams and mentoring others.
 
-| My favorite tools |![email-icon][] Email me to [israellaguan@gmail.com][] ![linkedin-icon][] Connect in [Linkedin][]
-| :---: | :---:
-| ![badge-react][] ![badge-css] ![badge-nodejs][] ![badge-postgres] | ![banner][]
+[//]: # (![linkedin-icon][] Connect in [Linkedin][]&#40;&#41;&#41;)
+
+|                         My favorite tools                         | ![email-icon][] Email me to [joel.torres.gonzalez@gmail.com][]  |
+|:-----------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------:|
+| ![badge-react][] ![badge-css] ![badge-nodejs][] ![badge-postgres] |                                                ![banner][]                                                |
 
 ## Some stats for the geeky ones
 
@@ -41,9 +43,9 @@ Stats by [tipsy/profile-summary-for-github][]
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Israel-Laguan/Israel-Laguan)
 
 [pic]: https://avatars2.githubusercontent.com/u/36519478?s=460&v=4
-[email-icon]: https://img.icons8.com/color/48/000000/message-squared.png
-[israellaguan@gmail.com]: mailto:israellaguan@gmail.com
-[linkedin-icon]: https://img.icons8.com/color/48/000000/linkedin.png
+[email-icon]: https://img.icons8.com/?size=48&id=YrXy82StfwT9&format=png&color=000000
+[joel.torres.gonzalez@gmail.com]: mailto:joel.torres.gonzalez@gmail.com
+[linkedin-icon]: https://img.icons8.com/?size=48&id=qNUNvR9aEWql&format=png&color=000000
 [Linkedin]: https://www.linkedin.com/in/israellaguan
 [github-icon]: https://img.icons8.com/color/48/000000/github--v1.png
 [GitHub]: https://github.com/Israel-Laguan
@@ -51,6 +53,7 @@ Stats by [tipsy/profile-summary-for-github][]
 [badge-postgres]: https://img.shields.io/badge/database-postgreSQL-47A248?style=for-the-badge&logo=postgresql
 [badge-react]: https://img.shields.io/badge/React-16+-61DAFB?style=for-the-badge&logo=react
 [badge-css]: https://img.shields.io/badge/style-CSS-1572B6?style=for-the-badge&logo=css3
-[banner]: https://github.com/Israel-Laguan/Israel-Laguan/raw/master/docs/banner.jpg
+[banner]: https://github.com/jtorreg-xorre/jtorreg-xorre/raw/main/resources/img/Designer5.jpeg
+[banner3]: https://github.com/Israel-Laguan/Israel-Laguan/raw/master/docs/banner.jpg
 [stats]: https://github.com/Israel-Laguan/Israel-Laguan/raw/master/docs/github_stats.png
 [tipsy/profile-summary-for-github]: https://profile-summary-for-github.com/user/israel-laguan
